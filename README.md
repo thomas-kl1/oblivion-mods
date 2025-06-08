@@ -28,7 +28,7 @@ What I did:
 - Fixed the helmet issue by adding the missing egm file so the helmet can fit any head size model
 - Reworked the texture on the cuirass (before, the normal map was the vanilla Kvatch townguard cuirass, added some missing details)
 - Reworked the colors on the textures (almost every piece of the set, many the helmet and cuirass)
-- Resized the worlf emblem on the cuirass
+- Resized the wolf emblem on the cuirass and other textures and bormal improvements (thanks Jean-Baptiste Klein)
 - Added the pauldrons on the cuirass (I'm using the Legion pauldrons from the cuirass)
 - Reworked completely the shield to be closer to the vanilla shield
 - Replaced the sword, it's now the same normal as the vanilla fine steel longsword, but I added the wolf emblem on the sword pommel
